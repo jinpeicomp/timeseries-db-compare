@@ -1,1 +1,1 @@
-# timeseries-db-compare
+# Time series database compare
